@@ -5,8 +5,9 @@ class Program:
 
     @staticmethod
     def main():
-        # Main only calls the menu.
+
         menu = Menu()
+
         menu.start()
 
 
